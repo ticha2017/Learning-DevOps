@@ -3,7 +3,7 @@
 
 There are several tools & Technology that are going to be covered.
 
-- [ ] Introduction to DevOps  
+- [x] Introduction to DevOps  
 - [ ] JIRA Software  
 - [ ] Git & GitHub  
 - [ ] Python  
